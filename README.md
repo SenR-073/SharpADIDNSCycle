@@ -1,6 +1,6 @@
 # SharpADIDNSCycle
 
-**Author: SenRan · Version: 0.8.0**
+**Author: SenRan · Version: 0.8.1**
 
 [中文说明](README.zh-CN.md)
 
